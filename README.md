@@ -15,6 +15,7 @@
   <a href="https://github.com/saikatcloudhere">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=saikatcloudhere&color=00F0FF&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
 </div>
@@ -67,8 +68,9 @@ Here are real, production-ready projects I have built, debugged, and shipped:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikatcloudhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7952FF" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatcloudhere&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF9900&currStreakNum=00F0FF" height="160" alt="streak stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=saikatcloudhere&cc=0D1117&tc=00F0FF&ic=7952FF&bc=00000000" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=saikatcloudhere&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
